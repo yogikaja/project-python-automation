@@ -1,3 +1,5 @@
 This project is generally used for:
 - study
 - collaboration
+- In the future, we will develop each other
+- so learning
